@@ -23,11 +23,14 @@ body {
   color: #fff;
   border: none;
   background-color: rgba(0, 0, 0, 0.205);
-  max-width: 400px;
 }
 .container .todos li {
   background-color: #cacaca !important;
 }
 .container .delete {
   cursor: pointer;
+}
+
+.filtered {
+  display: none !important;
 }/*# sourceMappingURL=style.css.map */
