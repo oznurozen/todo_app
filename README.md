@@ -1,2 +1,2 @@
 # todo_app
-<img src="todoapp.PNG" width="50">
+<img src="todoapp.PNG" width="100">
