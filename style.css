@@ -1,0 +1,33 @@
+body {
+  background-color: #790252;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+::-moz-placeholder {
+  color: #fff !important;
+}
+
+:-ms-input-placeholder {
+  color: #fff !important;
+}
+
+::placeholder {
+  color: #fff !important;
+}
+
+.container {
+  max-width: 400px;
+}
+.container input[type=text],
+.container input[type=text]:focus {
+  color: #fff;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.205);
+  max-width: 400px;
+}
+.container .todos li {
+  background-color: #cacaca !important;
+}
+.container .delete {
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
