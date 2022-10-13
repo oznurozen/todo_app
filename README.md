@@ -1,3 +1,2 @@
 # todo_app
- with javascript
-<img src="todoapp.PNG">
+<img src="todoapp.PNG" size=20px;>
